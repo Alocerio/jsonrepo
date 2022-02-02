@@ -1,0 +1,154 @@
+[
+    {
+        "sku": "T40Q3FY22ARGv1",
+        "bundle": "49628",
+        "marca": "dell-server",
+        "precio": "$100",
+        "descripcion": "SERVER DELL T40 XEON E3-2224/8GB/1TB HDD/DVD",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "BX8070811600K",
+        "bundle": "48377",
+        "marca": "intel",
+        "precio": "$100",
+        "descripcion": "CPU INTEL CORE I5-11600K ROCKETLAKE S1200 BOX",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "BX8070811700K",
+        "bundle": "48376",
+        "marca": "intel",
+        "precio": "$100",
+        "descripcion": "CPU INTEL CORE I7-11700K ROCKETLAKE S1200 BOX",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "BX8071512700K",
+        "bundle": "49993",
+        "marca": "intel",
+        "precio": "$100",
+        "descripcion": "CPU INTEL CORE I7-12700K ALDERLAKE S1700 BOX",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "BX8071512700KF",
+        "bundle": "49998",
+        "marca": "intel",
+        "precio": "$100",
+        "descripcion": "CPU INTEL CORE I7-12700KF ALDERLAKE S1700 BOX",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "BX80684I79700KF",
+        "bundle": "36748",
+        "marca": "intel",
+        "precio": "$100",
+        "descripcion": "CPU INTEL CORE I7-9700KF COFFEELAKE BOX SIN VIDEO",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "BX8070110100F",
+        "bundle": "49382",
+        "marca": "intel",
+        "precio": "$100",
+        "descripcion": "CPU INTEL CORE I5-9600KF COFFEE S1151 BOX S/TH ",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "BX8070811700K",
+        "bundle": "39747",
+        "marca": "intel",
+        "precio": "$100",
+        "descripcion": "CPU INTEL CORE I3-10100F COMETLAKE S1200 BOX",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "BX8070110105F",
+        "bundle": "48627",
+        "marca": "intel",
+        "precio": "$100",
+        "descripcion": "CPU INTEL CORE I3-10105F COMETLAKE S1200 BOX",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "GP-P450B",
+        "bundle": "39870",
+        "marca": "gigabyte",
+        "precio": "$100",
+        "descripcion": "FUENTE 450W GIGABYTE 80 PLUS BRONZE P450B FAN 12CM",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "GP-P550B",
+        "bundle": "39872",
+        "marca": "gigabyte",
+        "precio": "$100",
+        "descripcion": "FUENTE 550W GIGABYTE 80 PLUS BRONZE P550B FAN 12CM",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "KM6300",
+        "bundle": "48103",
+        "marca": "gigabyte",
+        "precio": "$100",
+        "descripcion": "TEC+MOUSE GIGABYTE KM6300 USB BLACK",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "GB-C200G",
+        "bundle": "36992",
+        "marca": "gigabyte",
+        "precio": "$100",
+        "descripcion": "GAB GIGABYTE C200 GLASS RGB SIN FUENTE",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "B450M-DS3H-WIFI",
+        "bundle": "38438",
+        "marca": "gigabyte",
+        "precio": "$100",
+        "descripcion": "MB GIGABYTE AM4 B450M DS3H WIFI BOX M-ATX",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "GA-A320M-H",
+        "bundle": "37055",
+        "marca": "gigabyte",
+        "precio": "$100",
+        "descripcion": "MB GIGABYTE AM4 GA-A320M-H BOX M-ATX",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "H510M H",
+        "bundle": "48707",
+        "marca": "gigabyte",
+        "precio": "$100",
+        "descripcion": "MB GIGABYTE S1200 H510M H BOX M-ATX",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "H310M PRO-VDH",
+        "bundle": "49909",
+        "marca": "msi",
+        "precio": "$100",
+        "descripcion": "MB MSI S1151 H310M PRO-VDH BOX M-ATX",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "B560M-A PRO",
+        "bundle": "49703",
+        "marca": "msi",
+        "precio": "$100",
+        "descripcion": "MB MSI S1200 B560M-A PRO BOX M-ATX",
+        "imagen": "https://picsum.photos/200/300/?random"
+    },
+    {
+        "sku": "911-7D25-017",
+        "bundle": "51496",
+        "marca": "msi",
+        "precio": "$100",
+        "descripcion": "MB MSI S1700 PRO Z690-A WIFI DDR4 BOX",
+        "imagen": "https://picsum.photos/200/300/?random"
+    }
+]
