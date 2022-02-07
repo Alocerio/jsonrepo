@@ -1,563 +1,1550 @@
 [
-    {
-        "sku": "T40Q3FY22ARGv1",
-        "bundle": "49628",
-        "marca": "dell-server",
-        "puntos": "$100",
-        "descripcion": "SERVER DELL T40 XEON E3-2224/8GB/1TB HDD/DVD",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "BX8070811600K",
-        "bundle": "48377",
-        "marca": "intel",
-        "puntos": "$100",
-        "descripcion": "CPU INTEL CORE I5-11600K ROCKETLAKE S1200 BOX",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "BX8070811700K",
-        "bundle": "48376",
-        "marca": "intel",
-        "puntos": "$100",
-        "descripcion": "CPU INTEL CORE I7-11700K ROCKETLAKE S1200 BOX",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "BX8071512700K",
-        "bundle": "49993",
-        "marca": "intel",
-        "puntos": "$100",
-        "descripcion": "CPU INTEL CORE I7-12700K ALDERLAKE S1700 BOX",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "BX8071512700KF",
-        "bundle": "49998",
-        "marca": "intel",
-        "puntos": "$100",
-        "descripcion": "CPU INTEL CORE I7-12700KF ALDERLAKE S1700 BOX",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "BX80684I79700KF",
-        "bundle": "36748",
-        "marca": "intel",
-        "puntos": "$100",
-        "descripcion": "CPU INTEL CORE I7-9700KF COFFEELAKE BOX SIN VIDEO",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "BX8070110100F",
-        "bundle": "49382",
-        "marca": "intel",
-        "puntos": "$100",
-        "descripcion": "CPU INTEL CORE I5-9600KF COFFEE S1151 BOX S/TH ",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "BX8070811700K",
-        "bundle": "39747",
-        "marca": "intel",
-        "puntos": "$100",
-        "descripcion": "CPU INTEL CORE I3-10100F COMETLAKE S1200 BOX",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "BX8070110105F",
-        "bundle": "48627",
-        "marca": "intel",
-        "puntos": "$100",
-        "descripcion": "CPU INTEL CORE I3-10105F COMETLAKE S1200 BOX",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "GP-P450B",
-        "bundle": "39870",
-        "marca": "gigabyte",
-        "puntos": "$100",
-        "descripcion": "FUENTE 450W GIGABYTE 80 PLUS BRONZE P450B FAN 12CM",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "GP-P550B",
-        "bundle": "39872",
-        "marca": "gigabyte",
-        "puntos": "$100",
-        "descripcion": "FUENTE 550W GIGABYTE 80 PLUS BRONZE P550B FAN 12CM",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "KM6300",
-        "bundle": "48103",
-        "marca": "gigabyte",
-        "puntos": "$100",
-        "descripcion": "TEC+MOUSE GIGABYTE KM6300 USB BLACK",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "GB-C200G",
-        "bundle": "36992",
-        "marca": "gigabyte",
-        "puntos": "$100",
-        "descripcion": "GAB GIGABYTE C200 GLASS RGB SIN FUENTE",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "B450M-DS3H-WIFI",
-        "bundle": "38438",
-        "marca": "gigabyte",
-        "puntos": "$100",
-        "descripcion": "MB GIGABYTE AM4 B450M DS3H WIFI BOX M-ATX",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "GA-A320M-H",
-        "bundle": "37055",
-        "marca": "gigabyte",
-        "puntos": "$100",
-        "descripcion": "MB GIGABYTE AM4 GA-A320M-H BOX M-ATX",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "H510M H",
-        "bundle": "48707",
-        "marca": "gigabyte",
-        "puntos": "$100",
-        "descripcion": "MB GIGABYTE S1200 H510M H BOX M-ATX",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "H310M PRO-VDH",
-        "bundle": "49909",
-        "marca": "msi",
-        "puntos": "$100",
-        "descripcion": "MB MSI S1151 H310M PRO-VDH BOX M-ATX",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "B560M-A PRO",
-        "bundle": "49703",
-        "marca": "msi",
-        "puntos": "$100",
-        "descripcion": "MB MSI S1200 B560M-A PRO BOX M-ATX",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "911-7D25-017",
-        "bundle": "51496",
-        "marca": "msi",
-        "puntos": "$100",
-        "descripcion": "MB MSI S1700 PRO Z690-A WIFI DDR4 BOX",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "X515MA-BQ392",
-        "bundle": "49141",
-        "marca": "asus",
-        "puntos": "$100",
-        "descripcion": "NB ASUS 15.6 CELERON N4020 4GB 128GB PCIE (X515MA)",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "UX5401EA-L7101T",
-        "bundle": "51051",
-        "marca": "asus",
-        "puntos": "$100",
-        "descripcion": "NB ASUS 14 i5-1135G7 8G SSD512GB W10H",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "GA401QC-HZ096T",
-        "bundle": "49691",
-        "marca": "asus",
-        "puntos": "100",
-        "descripcion": "NB ASUS 14 RYZEN 7 5800HS 16G 512GB RTX3050 W10H",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "SDSQUNR-064G-GN3MA",
-        "bundle": "48328",
-        "marca": "sandisk",
-        "puntos": "100",
-        "descripcion": "MICRO SD 64GB SANDISK ULTRA CLASE 10",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "SDCZ74-128G-G46",
-        "bundle": "48576",
-        "marca": "sandisk",
-        "puntos": "100",
-        "descripcion": "PEN DRIVE 128GB SANDISK 3.1 ULTRA LUXE METALICO",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "SDCZ50-032G-B35",
-        "bundle": "48317",
-        "marca": "sandisk",
-        "puntos": "100",
-        "descripcion": "PEN DRIVE 32GB SANDISK 2.0 CRUZERBLADE",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T504120-AL",
-        "bundle": "28227",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON NEGRO P/L14150/60/61/71/91",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T504220-AL",
-        "bundle": "28228",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON CYAN P/L14150/60/61/71/91",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T504320",
-        "bundle": "28229",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON MAGENTA P/L14150/60/61/71/91",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T504420-AL",
-        "bundle": "28230",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON AMARILLO P/L14150/60/61/71/91",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T534120-AL",
-        "bundle": "36131",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON NEGRO P/M1120/2120/3170",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T544220-AL",
-        "bundle": "28914",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON CYAN P/L3110/3150/3210/3250/5190",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T544320-AL",
-        "bundle": "28915",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON MAGENTA P/L3110/3150/3210/3250/5190",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T544420-AL",
-        "bundle": "28916",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON AMARILLO P/L3110/3150/3210/3250/5190",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T664120-AL",
-        "bundle": "10065",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON NEGRO P/L355/380/395/475",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T664220-AL",
-        "bundle": "10068",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON CYAN P/L355/380/395/475",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T664320-AL",
-        "bundle": "10069",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON MAGENTA P/L355/380/395/475",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T664420-AL",
-        "bundle": "10071",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON AMARILLO P/L355/380/395/475",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T673120-AL",
-        "bundle": "10913",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON NEGRO P/L805/810/850/1800",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T673220-AL",
-        "bundle": "10914",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON CYAN P/L805/810/850/1800",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T673320-AL",
-        "bundle": "10915",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON MAGENTA P/L805/810/850/1800",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T673420-AL",
-        "bundle": "10916",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON AMARILLO P/L805/810/850/1800",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T673520-AL",
-        "bundle": "10917",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON LIGHT CYAN P/L805/810/850/1800",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T673620-AL",
-        "bundle": "10918",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON LIGHT MAGENTA P/L805/810/850/1800",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T774120-AL",
-        "bundle": "18605",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "BOTELLA EPSON NEGRO P/M105/205",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T073120-AL",
-        "bundle": "32311",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON NEGRO P/TX200/400/CX3000/4000/5000",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T073220-AL",
-        "bundle": "32312",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON CYAN P/TX200/400/CX3000/4000/5000",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T073320-AL",
-        "bundle": "32313",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON MAGENTA P/TX200/400/CX3000/4000/5000",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T073420-AL",
-        "bundle": "32314",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON AMARILLO P/TX200/400/CX3000/4000/5000",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T133120-AL",
-        "bundle": "5153",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON NEGRO P/TX420/TX235",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T133220-AL",
-        "bundle": "5165",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON CYAN P/T25/TX125/TX420W",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T133320-AL",
-        "bundle": "5151",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON MAGENTA P/T25/TX125/TX420W",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T133420-AL",
-        "bundle": "5152",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON AMARILLO P/T25/TX125/TX420W",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T135120-AL",
-        "bundle": "5166",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON NEGRO P/T25/TX125/TX135",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T195120-AL",
-        "bundle": "47274",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON NEGRO P/XP201/XP211",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T195220-AL",
-        "bundle": "47275",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON CYAN P/XP201/XP211",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T195320-AL",
-        "bundle": "47276",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON MAGENTA P/XP201/XP211",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T195420-AL",
-        "bundle": "47277",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON AMARILLO P/XP201/XP211",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T196120-AL",
-        "bundle": "11984",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON NEGRO P/XP401/411",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T196220-AL",
-        "bundle": "11985",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON CYAN P/XP201/XP401 HC",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T196320-AL",
-        "bundle": "11986",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON MAGENTA P/XP201/XP401 HC",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T196420-AL",
-        "bundle": "11987",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON AMARILLO P/XP201/XP401 HC",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T206120-AL",
-        "bundle": "36275",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON NEGRO P/XP2101",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T206220-AL",
-        "bundle": "36276",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON CYAN P/XP2101",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T206320-AL",
-        "bundle": "36277",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON MAGENTA P/XP2101",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T206420-AL",
-        "bundle": "36278",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON AMARILLO P/XP2101",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T296120-AL",
-        "bundle": "23072",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON NEGRO P/XP241/441",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T296220-AL",
-        "bundle": "23257",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON CYAN P/XP241/441",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T296320-AL",
-        "bundle": "23258",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON MAGENTA P/XP241/441",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T296420-AL",
-        "bundle": "23259",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON AMARILLO P/XP241/441",
-        "imagen": "https://picsum.photos/200/300/?random"
-    },
-    {
-        "sku": "T297120-AL",
-        "bundle": "23260",
-        "marca": "epson",
-        "puntos": "100",
-        "descripcion": "CARTUCHO EPSON NEGRO P/XP2317XP431 HC",
-        "imagen": "https://picsum.photos/200/300/?random"
-    }
+  {
+    "sku": "T40Q3FY22ARGv1",
+    "bundle": "49628",
+    "marca": "dell-server",
+    "puntos": "$100",
+    "descripcion": "SERVER DELL T40 XEON E3-2224/8GB/1TB HDD/DVD",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "BX8070811600K",
+    "bundle": "48377",
+    "marca": "intel",
+    "puntos": "$100",
+    "descripcion": "CPU INTEL CORE I5-11600K ROCKETLAKE S1200 BOX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "BX8070811700K",
+    "bundle": "48376",
+    "marca": "intel",
+    "puntos": "$100",
+    "descripcion": "CPU INTEL CORE I7-11700K ROCKETLAKE S1200 BOX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "BX8071512700K",
+    "bundle": "49993",
+    "marca": "intel",
+    "puntos": "$100",
+    "descripcion": "CPU INTEL CORE I7-12700K ALDERLAKE S1700 BOX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "BX8071512700KF",
+    "bundle": "49998",
+    "marca": "intel",
+    "puntos": "$100",
+    "descripcion": "CPU INTEL CORE I7-12700KF ALDERLAKE S1700 BOX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "BX80684I79700KF",
+    "bundle": "36748",
+    "marca": "intel",
+    "puntos": "$100",
+    "descripcion": "CPU INTEL CORE I7-9700KF COFFEELAKE BOX SIN VIDEO",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "BX8070110100F",
+    "bundle": "49382",
+    "marca": "intel",
+    "puntos": "$100",
+    "descripcion": "CPU INTEL CORE I5-9600KF COFFEE S1151 BOX S/TH ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "BX8070811700K",
+    "bundle": "39747",
+    "marca": "intel",
+    "puntos": "$100",
+    "descripcion": "CPU INTEL CORE I3-10100F COMETLAKE S1200 BOX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "BX8070110105F",
+    "bundle": "48627",
+    "marca": "intel",
+    "puntos": "$100",
+    "descripcion": "CPU INTEL CORE I3-10105F COMETLAKE S1200 BOX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "GP-P450B",
+    "bundle": "39870",
+    "marca": "gigabyte",
+    "puntos": "$100",
+    "descripcion": "FUENTE 450W GIGABYTE 80 PLUS BRONZE P450B FAN 12CM",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "GP-P550B",
+    "bundle": "39872",
+    "marca": "gigabyte",
+    "puntos": "$100",
+    "descripcion": "FUENTE 550W GIGABYTE 80 PLUS BRONZE P550B FAN 12CM",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "KM6300",
+    "bundle": "48103",
+    "marca": "gigabyte",
+    "puntos": "$100",
+    "descripcion": "TEC+MOUSE GIGABYTE KM6300 USB BLACK",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "GB-C200G",
+    "bundle": "36992",
+    "marca": "gigabyte",
+    "puntos": "$100",
+    "descripcion": "GAB GIGABYTE C200 GLASS RGB SIN FUENTE",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "B450M-DS3H-WIFI",
+    "bundle": "38438",
+    "marca": "gigabyte",
+    "puntos": "$100",
+    "descripcion": "MB GIGABYTE AM4 B450M DS3H WIFI BOX M-ATX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "GA-A320M-H",
+    "bundle": "37055",
+    "marca": "gigabyte",
+    "puntos": "$100",
+    "descripcion": "MB GIGABYTE AM4 GA-A320M-H BOX M-ATX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "H510M H",
+    "bundle": "48707",
+    "marca": "gigabyte",
+    "puntos": "$100",
+    "descripcion": "MB GIGABYTE S1200 H510M H BOX M-ATX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "H310M PRO-VDH",
+    "bundle": "49909",
+    "marca": "msi",
+    "puntos": "$100",
+    "descripcion": "MB MSI S1151 H310M PRO-VDH BOX M-ATX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "B560M-A PRO",
+    "bundle": "49703",
+    "marca": "msi",
+    "puntos": "$100",
+    "descripcion": "MB MSI S1200 B560M-A PRO BOX M-ATX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "911-7D25-017",
+    "bundle": "51496",
+    "marca": "msi",
+    "puntos": "$100",
+    "descripcion": "MB MSI S1700 PRO Z690-A WIFI DDR4 BOX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "YG53W",
+    "bundle": "48570",
+    "marca": "dell",
+    "puntos": "$100",
+    "descripcion": "NB DELL 14 VOSTRO 3405 RYZEN5 8GB 256GB UBUNTU",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "8CN8T",
+    "bundle": "48823",
+    "marca": "dell",
+    "puntos": "$100",
+    "descripcion": "NB DELL 15.6 INSP 3501 I3-1115G4 4G 1TB UBUNTU",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "624C2",
+    "bundle": "48825",
+    "marca": "dell",
+    "puntos": "$100",
+    "descripcion": "NB DELL 15.6 INSP 3501 I5-1135G7 8G 256GB UBUNTU",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "KCDT2",
+    "bundle": "39574",
+    "marca": "dell",
+    "puntos": "$100",
+    "descripcion": "NB DELL 15.6 INSP 3505 AMD RYZEN5 8G 256G W10HOME",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "P45H9",
+    "bundle": "49482",
+    "marca": "dell",
+    "puntos": "$100",
+    "descripcion": "NB DELL 15.6 INSP 5510 I5-11320H 8G 256GB W10HOME",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "XHPJN",
+    "bundle": "48894",
+    "marca": "dell",
+    "puntos": "$100",
+    "descripcion": "NB DELL 15.6 INSP 5510 I5-11300H 8G 256G W10HOME",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "R55HM",
+    "bundle": "48895",
+    "marca": "dell",
+    "puntos": "$100",
+    "descripcion": "NB DELL 15.6 INSP 5510 I7-11370H 12G 512G  W10HOME",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "CTO3520UBUNTU",
+    "bundle": "48493",
+    "marca": "dell",
+    "puntos": "$100",
+    "descripcion": "NB DELL 15.6 LATI 3520 I3-1115G4 8G 256GB UBUNTU",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "X515MA-BQ392",
+    "bundle": "49141",
+    "marca": "asus",
+    "puntos": "$100",
+    "descripcion": "NB ASUS 15.6 CELERON N4020 4GB 128GB PCIE (X515MA)",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "90MB17E0-M0EAY0",
+    "bundle": "48661",
+    "marca": "asus",
+    "puntos": "$100",
+    "descripcion": "MB ASUS S1200 PRIME H510M-E BOX M-ATX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "90MB0TV0-M0EAY0",
+    "bundle": "38998",
+    "marca": "asus",
+    "puntos": "$100",
+    "descripcion": "MB ASUS AM4 PRIME A320M-K BOX M-ATX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "90MB15Z0-M0EAY0",
+    "bundle": "39740",
+    "marca": "asus",
+    "puntos": "$100",
+    "descripcion": "MB ASUS AM4 PRIME B450M-A II BOX M-ATX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "90MB14V0-M0EAY0",
+    "bundle": "39538",
+    "marca": "asus",
+    "puntos": "$100",
+    "descripcion": "MB ASUS AM4 PRIME B550M-K BOX M-ATX",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "UX5401EA-L7101T",
+    "bundle": "51051",
+    "marca": "asus",
+    "puntos": "$100",
+    "descripcion": "NB ASUS 14 i5-1135G7 8G SSD512GB W10H",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "GA401QC-HZ096T",
+    "bundle": "49691",
+    "marca": "asus",
+    "puntos": "100",
+    "descripcion": "NB ASUS 14 RYZEN 7 5800HS 16G 512GB RTX3050 W10H",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "SDSQUNR-064G-GN3MA",
+    "bundle": "48328",
+    "marca": "sandisk",
+    "puntos": "100",
+    "descripcion": "MICRO SD 64GB SANDISK ULTRA CLASE 10",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "SDCZ74-128G-G46",
+    "bundle": "48576",
+    "marca": "sandisk",
+    "puntos": "100",
+    "descripcion": "PEN DRIVE 128GB SANDISK 3.1 ULTRA LUXE METALICO",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "SDCZ50-032G-B35",
+    "bundle": "48317",
+    "marca": "sandisk",
+    "puntos": "100",
+    "descripcion": "PEN DRIVE 32GB SANDISK 2.0 CRUZERBLADE",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T504120-AL",
+    "bundle": "28227",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON NEGRO P/L14150/60/61/71/91",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T504220-AL",
+    "bundle": "28228",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON CYAN P/L14150/60/61/71/91",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T504320",
+    "bundle": "28229",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON MAGENTA P/L14150/60/61/71/91",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T504420-AL",
+    "bundle": "28230",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON AMARILLO P/L14150/60/61/71/91",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T534120-AL",
+    "bundle": "36131",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON NEGRO P/M1120/2120/3170",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T544220-AL",
+    "bundle": "28914",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON CYAN P/L3110/3150/3210/3250/5190",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T544320-AL",
+    "bundle": "28915",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON MAGENTA P/L3110/3150/3210/3250/5190",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T544420-AL",
+    "bundle": "28916",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON AMARILLO P/L3110/3150/3210/3250/5190",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T664120-AL",
+    "bundle": "10065",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON NEGRO P/L355/380/395/475",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T664220-AL",
+    "bundle": "10068",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON CYAN P/L355/380/395/475",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T664320-AL",
+    "bundle": "10069",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON MAGENTA P/L355/380/395/475",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T664420-AL",
+    "bundle": "10071",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON AMARILLO P/L355/380/395/475",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T673120-AL",
+    "bundle": "10913",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON NEGRO P/L805/810/850/1800",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T673220-AL",
+    "bundle": "10914",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON CYAN P/L805/810/850/1800",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T673320-AL",
+    "bundle": "10915",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON MAGENTA P/L805/810/850/1800",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T673420-AL",
+    "bundle": "10916",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON AMARILLO P/L805/810/850/1800",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T673520-AL",
+    "bundle": "10917",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON LIGHT CYAN P/L805/810/850/1800",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T673620-AL",
+    "bundle": "10918",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON LIGHT MAGENTA P/L805/810/850/1800",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T774120-AL",
+    "bundle": "18605",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "BOTELLA EPSON NEGRO P/M105/205",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T073120-AL",
+    "bundle": "32311",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON NEGRO P/TX200/400/CX3000/4000/5000",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T073220-AL",
+    "bundle": "32312",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON CYAN P/TX200/400/CX3000/4000/5000",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T073320-AL",
+    "bundle": "32313",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON MAGENTA P/TX200/400/CX3000/4000/5000",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T073420-AL",
+    "bundle": "32314",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON AMARILLO P/TX200/400/CX3000/4000/5000",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T133120-AL",
+    "bundle": "5153",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON NEGRO P/TX420/TX235",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T133220-AL",
+    "bundle": "5165",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON CYAN P/T25/TX125/TX420W",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T133320-AL",
+    "bundle": "5151",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON MAGENTA P/T25/TX125/TX420W",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T133420-AL",
+    "bundle": "5152",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON AMARILLO P/T25/TX125/TX420W",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T135120-AL",
+    "bundle": "5166",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON NEGRO P/T25/TX125/TX135",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T195120-AL",
+    "bundle": "47274",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON NEGRO P/XP201/XP211",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T195220-AL",
+    "bundle": "47275",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON CYAN P/XP201/XP211",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T195320-AL",
+    "bundle": "47276",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON MAGENTA P/XP201/XP211",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T195420-AL",
+    "bundle": "47277",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON AMARILLO P/XP201/XP211",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T196120-AL",
+    "bundle": "11984",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON NEGRO P/XP401/411",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T196220-AL",
+    "bundle": "11985",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON CYAN P/XP201/XP401 HC",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T196320-AL",
+    "bundle": "11986",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON MAGENTA P/XP201/XP401 HC",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T196420-AL",
+    "bundle": "11987",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON AMARILLO P/XP201/XP401 HC",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T206120-AL",
+    "bundle": "36275",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON NEGRO P/XP2101",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T206220-AL",
+    "bundle": "36276",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON CYAN P/XP2101",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T206320-AL",
+    "bundle": "36277",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON MAGENTA P/XP2101",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T206420-AL",
+    "bundle": "36278",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON AMARILLO P/XP2101",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T296120-AL",
+    "bundle": "23072",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON NEGRO P/XP241/441",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T296220-AL",
+    "bundle": "23257",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON CYAN P/XP241/441",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T296320-AL",
+    "bundle": "23258",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON MAGENTA P/XP241/441",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T296420-AL",
+    "bundle": "23259",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON AMARILLO P/XP241/441",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "T297120-AL",
+    "bundle": "23260",
+    "marca": "epson",
+    "puntos": "100",
+    "descripcion": "CARTUCHO EPSON NEGRO P/XP2317XP431 HC",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "EPDU1016B",
+    "bundle": "APCEP1000",
+    "marca": "apc",
+    "puntos": "100",
+    "descripcion": "APC Easy PDU, Basic, 1U, 16A, 230V, (8)C13",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "EPDU1016M",
+    "bundle": "APCEP1001",
+    "marca": "apc",
+    "puntos": "100",
+    "descripcion": "APC Easy PDU, Metered, 1U, 16A, 230V, (8)C13",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "EPDU1116B",
+    "bundle": "APCEP1002",
+    "marca": "apc",
+    "puntos": "100",
+    "descripcion": "APC Easy PDU,Basic,ZeroU,16A,230V,(20)C13 & (4)C19",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "EPDU1132B",
+    "bundle": "APCEP1004",
+    "marca": "apc",
+    "puntos": "100",
+    "descripcion": "APCEasy PDU, Basic, Zero U, 32A, 230V, (20)C13 & (6",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+
+  {
+    "sku": "EPDU1132M",
+    "bundle": "APCEP1005",
+    "marca": "apc",
+    "puntos": "100",
+    "descripcion": "APCEasy PDU, Metered, Zero U, 32A, 230V, (20)C13 ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "AP8858",
+    "bundle": "7735",
+    "marca": "apc",
+    "puntos": "100",
+    "descripcion": "APC Rack PDU 2G, Metered, ZeroU, 20A/208V, 16A/230 ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "BV1000I-AR",
+    "bundle": "29753",
+    "marca": "apc",
+    "puntos": "100",
+    "descripcion": "UPS APC BACK EASY BV 1000VA",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "BV650I-AR",
+    "bundle": "29749",
+    "marca": "apc",
+    "puntos": "100",
+    "descripcion": "UPS APC BACK EASY BV 650VA ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "BV800I-AR",
+    "bundle": "29752",
+    "marca": "apc",
+    "puntos": "100",
+    "descripcion": "UPS APC BACK EASY BV 800VA",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+
+  {
+    "sku": "21187",
+    "bundle": "51520",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "AURICULARES + MIC TRUST GAMING GTX310 RADIUS BLACK",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+
+  {
+    "sku": "22208",
+    "bundle": "51521",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "AURICULARES + MIC TRUST GAMING GTX310D RADIUS DESE",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "23652",
+    "bundle": "51522",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "AURICULARES + MIC TRUST GAMING GTX323 CARUS BLACK",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "23799",
+    "bundle": "51523",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": " AURICULARES + MIC TRUST GAMING GTX4371 WARD BLACK2",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "23310",
+    "bundle": "51524",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": " AURICULARES + MIC TRUST GAMING GXT414 ZAMAK BLACK",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "23191",
+    "bundle": "51525",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": " AURICULARES + MIC TRUST GAMING GXT450 BLIZZ 7.1RGB",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+
+  {
+    "sku": "23510",
+    "bundle": "51537",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": " MICROFONO TRUST GXT256 EXXO USB RGB  ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+
+  {
+    "sku": "23465",
+    "bundle": "51538",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": " MICROFONO TRUST GXT258 FYRU USB RGB C/ TRIPODE82.25  ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+
+  {
+    "sku": "23395",
+    "bundle": "51536",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "MOUSE PAD TRUST GXT764 GLIDE XXL RGB (930x300x3)32.75     ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+
+  {
+    "sku": "23646",
+    "bundle": "51532",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "MOUSE PAD TRUST GXT765 GLIDE-FLEX RGB USBX ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+
+  {
+    "sku": "21963",
+    "bundle": "51517",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "MOUSE TRUST + PAD (COMBO) CAMING ZIVA NEGRO",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+
+  {
+    "sku": "23611",
+    "bundle": "51519",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "MOUSE TRUST + PAD (COMBO) GAMING RIXA CAMUFLADO",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+
+  {
+    "sku": "23733",
+    "bundle": "51552",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "MOUSE TRUST CARVE USB BLACK  ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+
+  {
+    "sku": "23758",
+    "bundle": "51529",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "MOUSE TRUST GAMING GXT960 GRAPHIN",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "23764",
+    "bundle": "51530",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "MOUSE TRUST GAMING GXT970 MORFIX  ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "21512",
+    "bundle": "51528",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "MOUSE TRUST GAMING ZIVA BLACK USB ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "20404",
+    "bundle": "51541",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "MOUSE TRUST IVERO USB BLACK ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "21869",
+    "bundle": "51555",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "MOUSE TRUST MYDO WIRELESS SILENCIOSO BLACK ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "18519",
+    "bundle": "51553",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "MOUSE TRUST YVI WIRELESS BLACK ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "19522",
+    "bundle": "51554",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": " MOUSE TRUST YVI WIRELESS BLACK/RED  ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "23972",
+    "bundle": "51540",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": " TEC+MOUSE TRUST PRIMO BLACK USB SILENCIOS  ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "23148",
+    "bundle": "51518",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "TEC+MOUSE+PAD+AURI TRUST GAMING 4EN1 GXT 1180RW",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "23823",
+    "bundle": "51527",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": " TECLADO TRUST GAMING GXT835 AZOR RETROILUMINADO",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "24098",
+    "bundle": "51526",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": " TECLADO TRUST GAMING GXT835 AZOR RETROILUMINADO",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "23883",
+    "bundle": "51539",
+    "marca": "trust",
+    "puntos": "100",
+    "descripcion": "TECLADO TRUST GAMING ZIVA LED MULTICOLOR",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "75260008",
+    "bundle": "38603",
+    "marca": "adata",
+    "puntos": "100",
+    "descripcion": "AURICULARES ADATA XPG EMIX H20 RGB",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "75260015",
+    "bundle": "38604",
+    "marca": "adata",
+    "puntos": "100",
+    "descripcion": "AURICULARES ADATA XPG PRECOG",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "75260083",
+    "bundle": "38562",
+    "marca": "adata",
+    "puntos": "100",
+    "descripcion": "TECLADO ADATA XPG SUMMONER CHERRY RED RGB",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "75260085",
+    "bundle": "38580",
+    "marca": "adata",
+    "puntos": "100",
+    "descripcion": "TECLADO ADATA XPG SUMMONER CHERRY SILVER RGB",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "EAP115",
+    "bundle": "25121",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "ACCESS POINT TP-LINK EAP115 11N 300MBPS 2*4DBI POE",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "EAP245",
+    "bundle": "26684",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "ACCESS POINT TP-LINK EAP245 GIGA DUAL AC1750 POE",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "EAP620 HD",
+    "bundle": "49036",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "ACCESS POINT TP-LINK EAP620 HD DUAL BAND AX1800",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "VIGI C300HP-4",
+    "bundle": "49674",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "CAMARA 3MP TP-LINK BULLET IP67 4MM H.265+",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "OC200",
+    "bundle": "35863",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "CONTROLADOR TP-LINK CLOUD OMADA OC200",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "CPE605",
+    "bundle": "48859",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "CPE TP-LINK CPE605 150MBPS 5GHZ 23dBi EXTERIOR",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "CPE610",
+    "bundle": "24204",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "CPE TP-LINK CPE610 300MBPS 5GHZ 23dBi EXTERIOR",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "CPE710",
+    "bundle": "48857",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "CPE TP-LINK CPE710 867MBPS 5GHZ 23dBi EXTERIOR",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "TL-WPA4220KIT",
+    "bundle": "18599",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "EXTENSOR DE RANGO TP-LINK POWERLINE WPA4220KIT",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "XZ000-G3",
+    "bundle": "39786",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "ONU GPON 1P TP-LINK XZ000-G3 GIGA FIBRA OPTICA",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "ARCHER T4E",
+    "bundle": "37286",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "PLACA RED PCI-E TP-LINK ARCHER T4E AC1200 DUALBAND",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "ARCHER T6E",
+    "bundle": "23158",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "PLACA RED PCI-E TP-LINK ARCHER T6E AC1300 DUALBAND",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "TX401",
+    "bundle": "48858",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "PLACA RED PCI-E TP-LINK TX401 10 GIGABIT",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "ARCHER T2U",
+    "bundle": "22183",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "PLACA RED USB TP-LINK ARCHER T2U AC600 DUAL BAND",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "ARCHER T4U",
+    "bundle": "22185",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "PLACA RED USB TP-LINK ARCHER T4U AC1300 DUAL BAND",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "ARCHER T9UH",
+    "bundle": "48862",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "PLACA RED USB TP-LINK ARCHER T9UH AC1900 DUAL BAND",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "TL-WN823N",
+    "bundle": "11959",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "PLACA RED USB TP-LINK WN823N 11N 300MBPS MINI",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "TL-WR941HP",
+    "bundle": "23633",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "ROUTER 4P TP-LINK WR941HP N450 HIGH POWER 3X9DBI",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "TL-R470T+",
+    "bundle": "20551",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "ROUTER 5P TP-LINK R470T+ 10/100 1P WAN +4P LAN",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "XN020-G3v",
+    "bundle": "37345",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "ROUTER GPON TP-LINK XN020-G3v 300MBPS GIGABIT VOIP",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "DECO HC4 (PACK1)",
+    "bundle": "49146",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "SISTEMA MESH TP-LINK DECO HC4 (PACK1) AC1200",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "DECO M4 (1-PACK)",
+    "bundle": "38166",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "SISTEMA MESH TP-LINK DECO M4 (PACK 1) AC1200",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "DECO M5(1-PACK)",
+    "bundle": "51194",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "SISTEMA MESH TP-LINK DECO M5 (PACK 1) AC1300",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "DECO M5(2-PACK)",
+    "bundle": "49673",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "SISTEMA MESH TP-LINK DECO M5 (PACK 2) AC1300",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "DECO P9(2-PACK)",
+    "bundle": "51378",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "SISTEMA MESH TP-LINK DECO P9 (PACK 2) + POWERLINE",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "DECO X20 (PACK 2)",
+    "bundle": "48873",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "SISTEMA MESH TP-LINK DECO X20 (PACK 2 AX1800 WIFI6",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "DECO X20 (PACK 1)",
+    "bundle": "49033",
+    "marca": "tplink",
+    "puntos": "100",
+    "descripcion": "SISTEMA MESH TP-LINK DECO X20 PACK 1 AX1800 WIFI6",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "WDS960G2G0C",
+    "bundle": "48966",
+    "marca": "wd",
+    "puntos": "100",
+    "descripcion": "SSD M.2 NVME 960GB WESTERN DIGITAL GREEN",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "WDS480G2G0C",
+    "bundle": "48968",
+    "marca": "wd",
+    "puntos": "100",
+    "descripcion": "SSD M.2 NVME 480GB WESTERN DIGITAL GREEN",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "WDS240G2G0C",
+    "bundle": "48965",
+    "marca": "wd",
+    "puntos": "100",
+    "descripcion": "SSD M.2 NVME 240GB WESTERN DIGITAL GREEN",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "WDS500G2B0C",
+    "bundle": "37612",
+    "marca": "wd",
+    "puntos": "100",
+    "descripcion": "SSD M.2 NVME 500GB WESTERN DIGITAL BLUE",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "WDS100T1B0E",
+    "bundle": "49755",
+    "marca": "wd",
+    "puntos": "100",
+    "descripcion": "SSD M.2 NVME 1TB WESTERN DIGITAL BLACK SN 750 SE",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "WDS100T1X0E",
+    "bundle": "51204",
+    "marca": "wd",
+    "puntos": "100",
+    "descripcion": "SSD M.2 NVME 1TB WESTERN DIGITAL BLACK SN850",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "49757",
+    "bundle": "51204",
+    "marca": "wd",
+    "puntos": "100",
+    "descripcion": "SSD M.2 NVME 500GB WESTERN DIGITAL BLACK SN 750 SE",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "311502828",
+    "bundle": "49389",
+    "marca": "hikv",
+    "puntos": "100",
+    "descripcion": "DDR3 8GB HIKVISION 1600MHZ",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "311502683",
+    "bundle": "49393",
+    "marca": "hikv",
+    "puntos": "100",
+    "descripcion": "DDR4 4GB HIKVISION 2666MHZ CL19",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "311502684",
+    "bundle": "49395",
+    "marca": "hikv",
+    "puntos": "100",
+    "descripcion": "DDR4 8GB HIKVISION 2666MHZ CL19",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "311500642",
+    "bundle": "51369",
+    "marca": "hikv",
+    "puntos": "100",
+    "descripcion": "MICRO SD 32GB HIKVISION CLASE 10 C1",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "311500643",
+    "bundle": "51370",
+    "marca": "hikv",
+    "puntos": "100",
+    "descripcion": "MICRO SD 64GB HIKVISION CLASE 10 C1",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "311600727",
+    "bundle": "51365",
+    "marca": "hikv",
+    "puntos": "100",
+    "descripcion": "PEN DRIVE 32GB HIKVISION 2.0 M200R",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "311600693",
+    "bundle": "51361",
+    "marca": "hikv",
+    "puntos": "100",
+    "descripcion": "PEN DRIVE 32GB HIKVISION 2.0 M200S",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "311502689",
+    "bundle": "49392",
+    "marca": "hikv",
+    "puntos": "100",
+    "descripcion": "SODIMM DDR4 4GB HIKVISION 2666MHZ CL19",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "311502690",
+    "bundle": "49394",
+    "marca": "hikv",
+    "puntos": "100",
+    "descripcion": "SODIMM DDR4 8GB HIKVISION 2666MHZ CL19",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "311502655",
+    "bundle": "49400",
+    "marca": "hikv",
+    "puntos": "100",
+    "descripcion": "SSD 120GB HIKVISION C100",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "311502656",
+    "bundle": "49401",
+    "marca": "hikv",
+    "puntos": "100",
+    "descripcion": "SSD 240GB HIKVISION C100",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "NP23800W ",
+    "bundle": "",
+    "marca": "cx",
+    "puntos": "100",
+    "descripcion": "NB CX 14 INTEL PENTIUM 4G+SSD 320G+W10H",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "CX73386  ",
+    "bundle": "",
+    "marca": "cx",
+    "puntos": "100",
+    "descripcion": "PC CX AMD 4700S+16G+SSD240G+VGA1GB",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "CX73414",
+    "bundle": "",
+    "marca": "cx",
+    "puntos": "100",
+    "descripcion": "PC CX AMD RYZEN 5 5600G+8G+SSD240G (MSI)",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "CX73428  ",
+    "bundle": "",
+    "marca": "cx",
+    "puntos": "100",
+    "descripcion": "PC CX INTEL I3 10100+4G+SSD240 (MSI)",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "CX73417 ",
+    "bundle": "",
+    "marca": "cx",
+    "puntos": "100",
+    "descripcion": "PC CX INTEL I3 10100+8G+SSD240 (MSI)",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "CX73422",
+    "bundle": "",
+    "marca": "cx",
+    "puntos": "100",
+    "descripcion": "PC CX INTEL I7 9700+8G+SSD240G(GIGA)",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "CX73425  ",
+    "bundle": "",
+    "marca": "cx",
+    "puntos": "100",
+    "descripcion": "PC CX INTEL I7 10700F+8G+SSD240+VGA1G (MSI)",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "CX73430",
+    "bundle": "",
+    "marca": "cx",
+    "puntos": "100",
+    "descripcion": "PC CX AMD RYZEN 3 4350G+8G+SSD240 (MSI)",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "CX73429",
+    "bundle": "",
+    "marca": "cx",
+    "puntos": "100",
+    "descripcion": "PC CX AMD RYZEN 5 4650G+8G+SSD240 (MSI)",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "38032",
+    "bundle": "",
+    "marca": "cx",
+    "puntos": "100",
+    "descripcion": "MONITOR 19 CX 185F VGA/HDMI",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "39612",
+    "bundle": "",
+    "marca": "cx",
+    "puntos": "100",
+    "descripcion": "MONITOR 24 CX GAMER HDMI 144 /165HZ PF185M",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "39613",
+    "bundle": "",
+    "marca": "cx",
+    "puntos": "100",
+    "descripcion": "MONITOR 27 CX GAMER HDMI 144HZ/165HZ PF215M",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "49936",
+    "bundle": "",
+    "marca": "performance",
+    "puntos": "100",
+    "descripcion": "MONITOR 27 PERFORMANCE V270 VGA HDMI",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "49884",
+    "bundle": "",
+    "marca": "performance",
+    "puntos": "100",
+    "descripcion": "TABLET 7 PERFORMANCE A133 4CORE 2G+16G + FUNDA",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "MM221PGL02",
+    "bundle": "51262",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "AURICULARES PRIMUS ARCUS 150T WRD USB 7.1",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "MM221PGL05",
+    "bundle": "51261",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "AURICULARES PRIMUS HDSR ARCUS 100T 3.5MM BLACK",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "MM221PGL04",
+    "bundle": "51260",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "AURICULARES PRIMUS HDSR ARCUS 90T 3.5MM BLACK",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "MM000PGL01",
+    "bundle": "51263",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "MICROFONO PRIMUS GAMING MIC ETHOS 300P USB",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "AC260PGL02",
+    "bundle": "51257",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "MOUSE PAD PRIMUS ARENA L BLACK 400X3200X3 MM",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "AC260PGL01",
+    "bundle": "51256",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "MOUSE PAD PRIMUS ARENA M BLACK 320X270X3 MM",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "ID011PGL05",
+    "bundle": "51259",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "MOUSE PRIMUS MSE GLADIUS 32000P USB RGB",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "ID011PGL04",
+    "bundle": "51258",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "MOUSE PRIMUS MSE GLADIUS 8200T USB RGB",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "AM160PGL09-PCH-102BK",
+    "bundle": "49098",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "SILLA GAMER PRIMUS THRONOS 100T BLACK",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "AM160PGL06-PCH-102YL",
+    "bundle": "49095",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "SILLA GAMER PRIMUS THRONOS 100T BLACK/AMARILLA",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "AM160PGL08-PCH-102BL",
+    "bundle": "49097",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "SILLA GAMER PRIMUS THRONOS 100T BLACK/BLUE",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "AM160PGL07-PCH-102RD",
+    "bundle": "49096",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "SILLA GAMER PRIMUS THRONOS 100T BLACK/RED",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "sku": "AM160PGL10-PCH202",
+    "bundle": "49099",
+    "marca": "primus",
+    "puntos": "100",
+    "descripcion": "SILLA GAMER PRIMUS THRONOS 200S BLACK",
+    "imagen": "https://picsum.photos/200/300/?random"
+  }
 
 ]
