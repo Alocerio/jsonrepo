@@ -2130,6 +2130,113 @@
     "puntos": "100",
     "descripcion": "AIO 24 HP 205 R3-3250 4GB 1T W10HOME WEBCAM",
     "imagen": "https://picsum.photos/200/300/?random"
+  },
+ {
+    "sku": "20TBS4FM00",
+    "bundle": "51427",
+    "categoria": "dispositivos",
+    "tag": "",
+    "marca": "lenovo",
+    "puntos": "100",
+    "descripcion": "NB LENOVO 14 E14 I5-1135G7 8GB SSD256 GTIA3OS",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+ {
+    "sku": "20SL00TQAR",
+    "bundle": "49468",
+    "categoria": "dispositivos",
+    "tag": "",
+    "marca": "lenovo",
+    "puntos": "100",
+    "descripcion": "NB LENOVO 14 THINKBOOK I5-1035G4 8G SSD256 W10P",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+ 
+ {
+    "sku": "20TES2GA00",
+    "bundle": "51428",
+    "categoria": "dispositivos",
+    "tag": "",
+    "marca": "lenovo",
+    "puntos": "100",
+    "descripcion": "NB LENOVO 15.6 E15 I5-1135G7 8GB SSD256 GTIA3OS",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+ 
+ {
+    "sku": "20TES2H500",
+    "bundle": "51429",
+    "categoria": "dispositivos",
+    "tag": "",
+    "marca": "lenovo",
+    "puntos": "100",
+    "descripcion": "NB LENOVO 15.6 E15 I7-1165G7 8GB SSD256 GTIA3OS",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+ 
+ 
+ {
+    "sku": "20YHS0C100",
+    "bundle": "51483",
+    "categoria": "dispositivos",
+    "tag": "",
+    "marca": "lenovo",
+    "puntos": "100",
+    "descripcion": "NB LENOVO 15.6 E15 R5-5500U 8GB SSD256 GTIA3OS",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+ 
+ {
+    "sku": "20X4S68200",
+    "bundle": "49942",
+    "categoria": "dispositivos",
+    "tag": "",
+    "marca": "lenovo",
+    "puntos": "100",
+    "descripcion": "NB LENOVO 15.6 L15 i3-1115G4 8GB SSD256 GTIA3OS",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+ 
+ {
+    "sku": "20X4S68000",
+    "bundle": "49943",
+    "categoria": "dispositivos",
+    "tag": "",
+    "marca": "lenovo",
+    "puntos": "100",
+    "descripcion": "NB LENOVO 15.6 L15 i5-1135G7 8GB SSD256 GTIA3OS",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+ {
+    "sku": "20X4S68100",
+    "bundle": "51216",
+    "categoria": "dispositivos",
+    "tag": "",
+    "marca": "lenovo",
+    "puntos": "100",
+    "descripcion": "NB LENOVO 15.6 L15 i7-1165G7 8GB SSD256 GTIA3OS",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+ {
+    "sku": "82NB002EAR",
+    "bundle": "49902",
+    "categoria": "dispositivos",
+    "tag": "",
+    "marca": "lenovo",
+    "puntos": "100",
+    "descripcion": "NB LENOVO 15.6 V15 I3-10110U 8GB SSD256",
+    "imagen": "https://picsum.photos/200/300/?random"
+  },
+ 
+ {
+    "sku": "82C7000KAR",
+    "bundle": "39508",
+    "categoria": "dispositivos",
+    "tag": "",
+    "marca": "lenovo",
+    "puntos": "100",
+    "descripcion": "NB LENOVO 15.6 V15 RYZEN 3 3250U 8GB SSD256",
+    "imagen": "https://picsum.photos/200/300/?random"
   }
  
 
