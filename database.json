@@ -186,7 +186,7 @@
     "marca": "dell",
     "puntos": "$100",
     "descripcion": "NB DELL 14 VOSTRO 3405 RYZEN5 8GB 256GB UBUNTU",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/dell/48570.jpg"
   },
   {
     "sku": "8CN8T",
@@ -196,7 +196,7 @@
     "marca": "dell",
     "puntos": "$100",
     "descripcion": "NB DELL 15.6 INSP 3501 I3-1115G4 4G 1TB UBUNTU",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/dell/48823.jpg"
   },
   {
     "sku": "624C2",
@@ -206,7 +206,7 @@
     "marca": "dell",
     "puntos": "$100",
     "descripcion": "NB DELL 15.6 INSP 3501 I5-1135G7 8G 256GB UBUNTU",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/dell/48825.jpg"
   },
   {
     "sku": "KCDT2",
@@ -216,7 +216,7 @@
     "marca": "dell",
     "puntos": "$100",
     "descripcion": "NB DELL 15.6 INSP 3505 AMD RYZEN5 8G 256G W10HOME",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/dell/39574.jpg"
   },
   {
     "sku": "P45H9",
@@ -226,7 +226,7 @@
     "marca": "dell",
     "puntos": "$100",
     "descripcion": "NB DELL 15.6 INSP 5510 I5-11320H 8G 256GB W10HOME",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/dell/49482.jpg"
   },
   {
     "sku": "XHPJN",
@@ -236,7 +236,7 @@
     "marca": "dell",
     "puntos": "$100",
     "descripcion": "NB DELL 15.6 INSP 5510 I5-11300H 8G 256G W10HOME",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/dell/48894.jpg"
   },
   {
     "sku": "R55HM",
@@ -246,7 +246,7 @@
     "marca": "dell",
     "puntos": "$100",
     "descripcion": "NB DELL 15.6 INSP 5510 I7-11370H 12G 512G  W10HOME",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/dell/48895.jpg"
   },
   {
     "sku": "CTO3520UBUNTU",
@@ -256,7 +256,7 @@
     "marca": "dell",
     "puntos": "$100",
     "descripcion": "NB DELL 15.6 LATI 3520 I3-1115G4 8G 256GB UBUNTU",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/dell/48493.jpg"
   },
   {
     "sku": "X515MA-BQ392",
@@ -1674,7 +1674,7 @@
     "marca": "cx",
     "puntos": "100",
     "descripcion": "NB CX 14 INTEL PENTIUM 4G+SSD 320G+W10H",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/cx/NP23800W.jpg"
   },
   {
     "sku": "CX73386  ",
@@ -1683,7 +1683,7 @@
     "marca": "cx",
     "puntos": "100",
     "descripcion": "PC CX AMD 4700S+16G+SSD240G+VGA1GB",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/cx/CX73386.jpg"
   },
   {
     "sku": "CX73414",
@@ -1692,7 +1692,7 @@
     "marca": "cx",
     "puntos": "100",
     "descripcion": "PC CX AMD RYZEN 5 5600G+8G+SSD240G (MSI)",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/cx/CX73414.jpg"
   },
   {
     "sku": "CX73428  ",
@@ -1701,7 +1701,7 @@
     "marca": "cx",
     "puntos": "100",
     "descripcion": "PC CX INTEL I3 10100+4G+SSD240 (MSI)",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/cx/CX73428.jpg"
   },
   {
     "sku": "CX73417 ",
@@ -1710,7 +1710,7 @@
     "marca": "cx",
     "puntos": "100",
     "descripcion": "PC CX INTEL I3 10100+8G+SSD240 (MSI)",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/cx/CX73417.jpg"
   },
   {
     "sku": "CX73422",
@@ -1719,7 +1719,7 @@
     "marca": "cx",
     "puntos": "100",
     "descripcion": "PC CX INTEL I7 9700+8G+SSD240G(GIGA)",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/cx/CX73422.jpg"
   },
   {
     "sku": "CX73425  ",
@@ -1728,7 +1728,7 @@
     "marca": "cx",
     "puntos": "100",
     "descripcion": "PC CX INTEL I7 10700F+8G+SSD240+VGA1G (MSI)",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/cx/CX73425.jpg"
   },
   {
     "sku": "CX73430",
@@ -1737,7 +1737,7 @@
     "marca": "cx",
     "puntos": "100",
     "descripcion": "PC CX AMD RYZEN 3 4350G+8G+SSD240 (MSI)",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/cx/CX73430.jpg"
   },
   {
     "sku": "CX73429",
@@ -1746,7 +1746,7 @@
     "marca": "cx",
     "puntos": "100",
     "descripcion": "PC CX AMD RYZEN 5 4650G+8G+SSD240 (MSI)",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/cx/CX73429.jpg"
   },
   {
     "sku": "38032",
@@ -1755,7 +1755,7 @@
     "marca": "cx",
     "puntos": "100",
     "descripcion": "MONITOR 19 CX 185F VGA/HDMI",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/cx/38032.jpg"
   },
   {
     "sku": "39612",
@@ -1764,7 +1764,7 @@
     "marca": "cx",
     "puntos": "100",
     "descripcion": "MONITOR 24 CX GAMER HDMI 144 /165HZ PF185M",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/cx/39612.jpg"
   },
   {
     "sku": "39613",
@@ -1773,7 +1773,7 @@
     "marca": "cx",
     "puntos": "100",
     "descripcion": "MONITOR 27 CX GAMER HDMI 144HZ/165HZ PF215M",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/cx/39613.jpg"
   },
   {
     "sku": "49936",
@@ -2069,7 +2069,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "NB HP 14 240 I7-1065G7 1T 8GB",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/hp/49746.jpg"
   },
   {
     "sku": "2Q9S5LT",
@@ -2079,7 +2079,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "NB HP 14 240 I7-1065G7 1T 8GB",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/hp/48923.jpg"
   },
  {
     "sku": "484S7LT",
@@ -2089,7 +2089,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "NB HP 14 240 I5-1035G1 SSD256 8GB W10PRO",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/hp/49614.jpg"
   },
  {
     "sku": "464A7LT",
@@ -2099,7 +2099,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "AIO 21 HP 200 CELERON J4025 4GB 1T  WEBCAM",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/hp/51061.jpg"
   },
  {
     "sku": "464A9LT",
@@ -2109,7 +2109,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "AIO 21 HP 200 CELERON J4025 4GB 1T W10HOME WEBCAM",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/hp/51063.jpg"
   },
  {
     "sku": "2M0Q3LT",
@@ -2119,7 +2119,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "AIO 22 HP 200 PENTIUM J5040 4GB 1T  WEBCAM",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/hp/51062.jpg"
   },
  {
     "sku": "25X51LT",
@@ -2129,7 +2129,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "AIO 24 HP 205 R3-3250 4GB 1T W10HOME WEBCAM",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/hp/48846.jpg"
   },
  {
     "sku": "20TBS4FM00",
@@ -2139,7 +2139,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 14 E14 I5-1135G7 8GB SSD256 GTIA3OS",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/lenovo/51427.jpg"
   },
  {
     "sku": "20SL00TQAR",
@@ -2149,7 +2149,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 14 THINKBOOK I5-1035G4 8G SSD256 W10P",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/lenovo/49468.jpg"
   },
  
  {
@@ -2160,7 +2160,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 E15 I5-1135G7 8GB SSD256 GTIA3OS",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/lenovo/51428.jpg"
   },
  
  {
@@ -2171,7 +2171,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 E15 I7-1165G7 8GB SSD256 GTIA3OS",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/lenovo/51429.jpg"
   },
  
  
@@ -2183,7 +2183,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 E15 R5-5500U 8GB SSD256 GTIA3OS",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/lenovo/51483.jpg"
   },
  
  {
@@ -2194,7 +2194,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 L15 i3-1115G4 8GB SSD256 GTIA3OS",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/lenovo/49942.jpg"
   },
  
  {
@@ -2205,7 +2205,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 L15 i5-1135G7 8GB SSD256 GTIA3OS",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/lenovo/49943.jpg"
   },
  {
     "sku": "20X4S68100",
@@ -2215,7 +2215,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 L15 i7-1165G7 8GB SSD256 GTIA3OS",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/lenovo/51216.jpg"
   },
  {
     "sku": "82NB002EAR",
@@ -2225,7 +2225,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 V15 I3-10110U 8GB SSD256",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/lenovo/49902.jpg"
   },
  
  {
@@ -2236,7 +2236,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 V15 RYZEN 3 3250U 8GB SSD256",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/lenovo/39508.jpg"
   }
  
 
