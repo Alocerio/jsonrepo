@@ -123,7 +123,7 @@
     "marca": "gigabyte",
     "puntos": "$100",
     "descripcion": "MB GIGABYTE AM4 B450M DS3H WIFI BOX M-ATX",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": ""
   },
   {
     "sku": "GA-A320M-H",
@@ -266,7 +266,7 @@
     "marca": "asus",
     "puntos": "$100",
     "descripcion": "NB ASUS 15.6 CELERON N4020 4GB 128GB PCIE (X515MA)",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/1.DISPOSITIVOS/asus/49141.png"
   },
   {
     "sku": "90MB17E0-M0EAY0",
@@ -275,7 +275,7 @@
     "marca": "asus",
     "puntos": "$100",
     "descripcion": "MB ASUS S1200 PRIME H510M-E BOX M-ATX",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/1.DISPOSITIVOS/asus/"
   },
   {
     "sku": "90MB0TV0-M0EAY0",
@@ -312,7 +312,7 @@
     "marca": "asus",
     "puntos": "$100",
     "descripcion": "NB ASUS 14 i5-1135G7 8G SSD512GB W10H",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/1.DISPOSITIVOS/asus/51051.png"
   },
   {
     "sku": "GA401QC-HZ096T",
@@ -321,7 +321,7 @@
     "marca": "asus",
     "puntos": "100",
     "descripcion": "NB ASUS 14 RYZEN 7 5800HS 16G 512GB RTX3050 W10H",
-    "imagen": "https://picsum.photos/200/300/?random"
+    "imagen": "./img/1.DISPOSITIVOS/asus/49691.jpeg"
   },
   {
     "sku": "SDSQUNR-064G-GN3MA",
