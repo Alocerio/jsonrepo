@@ -2069,7 +2069,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "NB HP 14 240 I7-1065G7 1T 8GB",
-    "imagen": "./img/hp/49746.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/hp/49746.jpg"
   },
   {
     "sku": "2Q9S5LT",
@@ -2079,7 +2079,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "NB HP 14 240 I7-1065G7 1T 8GB",
-    "imagen": "./img/hp/48923.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/hp/48923.jpg"
   },
  {
     "sku": "484S7LT",
@@ -2089,7 +2089,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "NB HP 14 240 I5-1035G1 SSD256 8GB W10PRO",
-    "imagen": "./img/hp/49614.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/hp/49614.jpg"
   },
  {
     "sku": "464A7LT",
@@ -2099,7 +2099,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "AIO 21 HP 200 CELERON J4025 4GB 1T  WEBCAM",
-    "imagen": "./img/hp/51061.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/hp/51061.jpg"
   },
  {
     "sku": "464A9LT",
@@ -2109,7 +2109,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "AIO 21 HP 200 CELERON J4025 4GB 1T W10HOME WEBCAM",
-    "imagen": "./img/hp/51063.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/hp/51063.jpg"
   },
  {
     "sku": "2M0Q3LT",
@@ -2119,7 +2119,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "AIO 22 HP 200 PENTIUM J5040 4GB 1T  WEBCAM",
-    "imagen": "./img/hp/51062.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/hp/51062.jpg"
   },
  {
     "sku": "25X51LT",
@@ -2129,7 +2129,7 @@
     "marca": "hp",
     "puntos": "100",
     "descripcion": "AIO 24 HP 205 R3-3250 4GB 1T W10HOME WEBCAM",
-    "imagen": "./img/hp/48846.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/hp/48846.jpg"
   },
  {
     "sku": "20TBS4FM00",
@@ -2139,7 +2139,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 14 E14 I5-1135G7 8GB SSD256 GTIA3OS",
-    "imagen": "./img/lenovo/51427.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/lenovo/51427.jpg"
   },
  {
     "sku": "20SL00TQAR",
@@ -2149,7 +2149,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 14 THINKBOOK I5-1035G4 8G SSD256 W10P",
-    "imagen": "./img/lenovo/49468.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/lenovo/49468.jpg"
   },
  
  {
@@ -2160,7 +2160,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 E15 I5-1135G7 8GB SSD256 GTIA3OS",
-    "imagen": "./img/lenovo/51428.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/lenovo/51428.jpg"
   },
  
  {
@@ -2171,7 +2171,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 E15 I7-1165G7 8GB SSD256 GTIA3OS",
-    "imagen": "./img/lenovo/51429.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/lenovo/51429.jpg"
   },
  
  
@@ -2183,7 +2183,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 E15 R5-5500U 8GB SSD256 GTIA3OS",
-    "imagen": "./img/lenovo/51483.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/lenovo/51483.jpg"
   },
  
  {
@@ -2194,7 +2194,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 L15 i3-1115G4 8GB SSD256 GTIA3OS",
-    "imagen": "./img/lenovo/49942.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/lenovo/49942.jpg"
   },
  
  {
@@ -2205,7 +2205,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 L15 i5-1135G7 8GB SSD256 GTIA3OS",
-    "imagen": "./img/lenovo/49943.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/lenovo/49943.jpg"
   },
  {
     "sku": "20X4S68100",
@@ -2215,7 +2215,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 L15 i7-1165G7 8GB SSD256 GTIA3OS",
-    "imagen": "./img/lenovo/51216.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/lenovo/51216.jpg"
   },
  {
     "sku": "82NB002EAR",
@@ -2225,7 +2225,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 V15 I3-10110U 8GB SSD256",
-    "imagen": "./img/lenovo/49902.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/lenovo/49902.jpg"
   },
  
  {
@@ -2236,7 +2236,7 @@
     "marca": "lenovo",
     "puntos": "100",
     "descripcion": "NB LENOVO 15.6 V15 RYZEN 3 3250U 8GB SSD256",
-    "imagen": "./img/lenovo/39508.jpg"
+    "imagen": "./img/1.DISPOSITIVOS/lenovo/39508.jpg"
   }
  
 
